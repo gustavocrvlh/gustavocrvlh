@@ -1,4 +1,4 @@
-### Hi there, I'm Gustavo!
+### Info
 -  Bachelor degree in Information Systems by UniFOA.
 
 ## Languages e Tools 
